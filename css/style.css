@@ -765,6 +765,10 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .site-header {
+    padding: 0 16px;
+  }
+
   .main-nav {
     display: none;
   }
